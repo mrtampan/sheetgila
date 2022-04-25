@@ -1,5 +1,8 @@
 # sheetgila
 
+## Deskripsi
+Jexcel / Jspreadsheet untuk implementasi ke vuejs
+
 ## Project setup
 ```
 npm install
